@@ -3,6 +3,10 @@
 ## BDM Analytics Essentials
 This course will be used to develop analytics skills in BDMs.
 
+### Overview
+[Training Definitions](training-definitions.md)
+
+
 <!-- You can use the [editor on GitHub](https://github.com/foxtrot-22/lmg-analytics-training/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 [my new test link](test.md)
