@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[My test link](test.md)
+[My test link](https://www.google.com)
 [Link](url) and ![Image](src)
 ```
 
