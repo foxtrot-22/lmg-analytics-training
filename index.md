@@ -1,5 +1,3 @@
-## Welcome to the LMG Analytics training
-
 ## BDM Analytics Essentials
 This course will be used to develop analytics skills in BDMs.
 
