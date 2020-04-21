@@ -3,6 +3,8 @@ This course will be used to develop analytics skills in BDMs.
 
 ### Overview
 [Training Definitions](training-definitions.md)
+[Quick Story](quick-story.md)
+
 
 
 <!-- You can use the [editor on GitHub](https://github.com/foxtrot-22/lmg-analytics-training/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
