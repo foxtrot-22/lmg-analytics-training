@@ -1,0 +1,2 @@
+## Exercise
+A lily pond starts with a single lily leaf. Each day the number of leaves doubles. 2 leaves on the second day, 4 leaves on the second. If the pond is full on Day 30, on which day is the pond half full?

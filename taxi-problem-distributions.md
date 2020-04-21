@@ -1,0 +1,17 @@
+## Variants
+- If we apply this principle to a meeting a 90 year old man, we will predict he will live to 180, whilst a 6 year old will pass away at 12...
+- Uniformative prior - no useful information about the taxis...
+- Real world priors - applying what we know using distributions
+    - Human life spans are roughly "normally" distributed (aka gaussian)
+- This rule (Bayes rule) offers a simple but different predictive rule of thumb for each distribution
+- Power-law = Multiplicative (Quantity observed by a constant)
+    - for an uninformed prior constant = 2
+    - movie ticket take constant = 1.4 (if a movie has made $6M you can guess it will make about $8.4M overall)
+- Normal distribution = Average
+    - If someone is younger than the average, predict the average
+    - If someone is approaching the average or exceeding the average, add on a couple of years
+- Erlang distribution = Additive
+    - Useful for independent things, modelling networks, radioactive decay, pedestrian traffic
+    - Predicts that things will go on for a constant amount longer
+        - "Just five more minutes"
+        - Playing blackjack with 20-1 odds - the player will be 20 more hands. If he/she hasn't won, they will be there for another 20 hands.
